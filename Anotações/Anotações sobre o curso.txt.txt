@@ -1,0 +1,9 @@
+CD .. (voltar)
+CLS (limpar)
+MKDIR - nome da pasta (criação de pasta)
+CD-nome da pasta (para acessar a pasta)
+ECHO HELLO > HELLO.TXT
+DEL nome da pasta (deletar arquivos dentro da pasta)
+GIT INIT (pasta oculta) LS-A
+SHA1 (algoritimo de hash seguro
+OPENSSL SHA1 nome do arquivo
