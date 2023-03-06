@@ -7,3 +7,4 @@ DEL nome da pasta (deletar arquivos dentro da pasta)
 GIT INIT (pasta oculta) LS-A
 SHA1 (algoritimo de hash seguro
 OPENSSL SHA1 nome do arquivo
+git push origin main
